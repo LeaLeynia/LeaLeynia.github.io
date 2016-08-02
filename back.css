@@ -1,0 +1,30 @@
+body {
+      background-color:#E2FFD6;
+     }
+ 
+h1 {
+    font-size: 100;
+    color: #4B2C4B;
+    text-align: center;
+ }
+ 
+h2 {
+    font-size: 35;
+    font-family : "Impact";
+    color: white;
+    text-align: center;
+ }
+b {
+    font-size: 25;
+    color: #32263c;
+    border: 5px #c7e2b4 solid;
+    border-radius: 5px;
+    background-color:#c7e2b4;
+ }
+ table {
+         text-align: center;
+ }
+ 
+a.no-decoration {
+  text-decoration: none;
+}
